@@ -1,0 +1,25 @@
+body {
+  box-sizing: border-box;
+  background-color: #5f9ea0;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin: 4rem 15px 0;
+  display: flex;
+}
+
+.basket {
+  color: #00008b;
+}
+
+.render {
+  border-color: none;
+  background-color: #1e90ff;
+  padding: 5px;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
